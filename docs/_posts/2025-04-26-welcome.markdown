@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "First Post!"
+date:   2025-04-26 14:14:24 +0100
+categories: breaking through
+---
+
+A first post; more to follow on the topics of Numbers, Emacs, Programming Languages, Logic and maybe something on Types. 
+
