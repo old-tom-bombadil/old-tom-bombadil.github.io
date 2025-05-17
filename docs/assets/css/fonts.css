@@ -1,0 +1,24 @@
+/* assets/css/fonts.css */
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('/assets/fonts/Serif/cmunrm.woff2') format('woff2'),
+       url('/assets/fonts/Serif/cmunrm.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('/assets/fonts/Serif/cmunbx.woff2') format('woff2'),
+       url('/assets/fonts/Serif/cmunbx.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('/assets/fonts/Serif/cmunti.woff2') format('woff2'),
+       url('/assets/fonts/Serif/cmunti.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
