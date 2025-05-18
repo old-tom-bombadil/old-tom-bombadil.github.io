@@ -1,4 +1,10 @@
+
 {% if site.google_analytics %}
   {% include google-analytics.html %}
 {% endif %}
+
+<!-- Load Minima’s default CSS -->
+<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+
+<!-- Load your custom font CSS -->
 <link rel="stylesheet" href="{{ '/assets/css/fonts.css' | relative_url }}">
