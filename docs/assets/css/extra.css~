@@ -1,0 +1,35 @@
+
+
+.site-logo img {
+  height: 160px;
+  width: auto;
+  margin-right: 12px;
+  object-fit: contain;
+}
+
+
+.site-header img {
+  max-height: none;
+  object-fit: contain;
+}
+
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  min-height: 80px;
+}
+
+.site-header {
+  padding: 1rem 0;
+}
+
+.site-logo img {
+  max-height: none;
+  max-width: none;
+}
+
+.main-logo {
+  height: 100px;
+  margin-bottom: 1rem;
+  display: block;
+}

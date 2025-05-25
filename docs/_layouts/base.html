@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+  <!-- Logo Sidebar -->
+  <div class="logo-sidebar">
+    <img src="{{ '/assets/images/wizard-and-dragon.png' | relative_url }}" alt="Logo">
+  </div>
+
+    
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+	<p style="color: red;">BASE.HTML IS ACTIVE</p>
+
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    {%- include sub-footer.html -%}
+
+  </body>
+
+</html>

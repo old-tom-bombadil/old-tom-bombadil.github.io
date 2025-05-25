@@ -1,0 +1,11 @@
+
+<header class="site-header" role="banner">
+  <div class="wrapper" style="display: flex; align-items: center;">
+    <a class="site-logo" href="{{ "/" | relative_url }}" style="margin-right: 12px;">
+      <img src="{{ '/assets/images/wizard-and-dragon.png' | relative_url }}" alt="Logo" style="height: 40px;">
+    </a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      {{ site.title | escape }}
+    </a>
+  </div>
+</header>

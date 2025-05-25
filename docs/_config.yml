@@ -26,11 +26,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 include:
  - _includes/head.html
+
+sass:
+  sass_dir: assets/_sass
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

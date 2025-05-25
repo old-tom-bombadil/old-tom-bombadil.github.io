@@ -1,0 +1,30 @@
+
+
+.site-header {
+  padding: 1rem 0;
+}
+
+
+.site {
+  margin-left: 140px; /* shift site content to the right */
+}
+
+.logo-sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 100vh;
+  background: yellow;
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.logo-sidebar img {
+  max-height: 80vh;
+  width: auto;
+  border: 2px solid red;
+}
