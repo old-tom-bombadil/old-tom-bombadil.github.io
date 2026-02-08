@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Miscellany"
-date:   2026-02-08 14:14:24 +0100
+date:   2026-02-08 04:14:24 +0100
 categories: oddities
 ---
 
