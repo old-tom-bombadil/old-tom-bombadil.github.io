@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Miscellany"
+date:   2026-02-08 14:14:24 +0100
+categories: oddities
+---
+
+The Picocalc is amazing.  What should you think about a programming language in which you cannot write I (or, rather id).
+
